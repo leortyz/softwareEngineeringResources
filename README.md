@@ -4,7 +4,7 @@ In this repository you will be able to obtain everything you need for the develo
 Use them appropriately.
 
 ## Workshops
-* [01](https://github.com/leortyz/softwareEngineeringResources/wiki/Empirical-Testing-Workshop) - Empirical Testing
+* [01](https://github.com/leortyz/softwareEngineeringResources/wiki/Empirical-Testing) - Empirical Testing
 * [02](https://github.com/leortyz/softwareEngineeringResources/wiki/Coding-Standars) - Coding Standars
 * [03](https://github.com/leortyz/softwareEngineeringResources/wiki/Code-Inspection) - Code Inspection
 * [04](https://github.com/leortyz/softwareEngineeringResources/wiki/Boundary-Value-Test) - Boundary Value Test
