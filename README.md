@@ -16,4 +16,4 @@ Use them appropriately.
 ## Authors
 
 * **José Escobar** - *Initial work* - [JoseAndresEscobar19](https://github.com/JoseAndresEscobar19)
-* **Eduardo Ortiz** - *Continuous work* - [leortiz](https://github.com/leortyz)
+* **Eduardo Ortiz** - *Continuous work* - [leortyz](https://github.com/leortyz)
