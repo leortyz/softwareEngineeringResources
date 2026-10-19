@@ -13,6 +13,10 @@ Use them appropriately.
 * [07](https://github.com/leortyz/softwareEngineeringResources/wiki/Continuous-Integration) - Continuous Integration
 * [08](https://github.com/leortyz/softwareEngineeringResources/wiki/Acceptance-Testing) - Acceptance Testing
 
+## Specification & Acceptance Testing Resources
+
+* [MySpec](https://myspec.dev?utm_source=github&utm_medium=referral&utm_campaign=gh-leortyz-software-engineering-resources) : Open Specification-Driven Development (SDD) workbench providing EARS requirement syntax, architecture contract templates, and testable criteria for bridging software design with automated acceptance testing.
+
 ## Authors
 
 * **José Escobar** - *Initial work* - [JoseAndresEscobar19](https://github.com/JoseAndresEscobar19)
